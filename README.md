@@ -17,11 +17,11 @@ Addtional Features:
 
 
   Command
-  /help - to view the functions of the bot
-  /start - to begin the transaction
-  /cancel - to cancel the transation
-  /share - to share our bot
-  /redeem - redeem your earned points
-  /pay - make payment
-  /feedback - give us your valuable feedback
+  /help - to view the functions of the bot  .
+  /start - to begin the transaction  .
+  /cancel - to cancel the transation  .
+  /share - to share our bot  .
+  /redeem - redeem your earned points  .
+  /pay - make payment  .
+  /feedback - give us your valuable feedback  .
   
