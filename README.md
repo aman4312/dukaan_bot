@@ -22,6 +22,7 @@ Addtional Features:
   /cancel - to cancel the transation<br/>
   /share - to share our bot<br/>
   /redeem - redeem your earned points<br/>
+  /points - to check your points</br>
   /pay - make payment<br/>
   /feedback - give us your valuable feedback<br/>
   
