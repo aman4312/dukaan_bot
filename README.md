@@ -16,7 +16,7 @@ Addtional Features:
 5. Feed Back Option
 
 
-  Command
+  Command<br/>
   /help - to view the functions of the bot<br/>
   /start - to begin the transaction<br/>
   /cancel - to cancel the transation<br/>
