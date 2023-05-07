@@ -25,7 +25,12 @@ Addtional Features:
   /points - to check your points</br>
   /pay - make payment<br/>
   /feedback - give us your valuable feedback<br/>
-  
+ 
+To run the bot
+
+1. Type !pip install python-telegram-bot==13.13 in your console
+2. Run the .ipynb file
+3. Click on start .
   
 Video Showing functionality of User side:
 
