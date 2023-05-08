@@ -32,11 +32,7 @@ To run the bot
 2. Run the .ipynb file
 3. Click on start .
   
-Video Showing functionality of User side:
 
-https://user-images.githubusercontent.com/72655322/236643293-09abd454-1715-46fb-bf48-f54a636cb5c7.mp4
 
-Video Showing functionality of Owner side:
 
-https://user-images.githubusercontent.com/72655322/236643492-28bf04ac-6c7d-47aa-bb3d-cfd9b98e826c.mp4
 
